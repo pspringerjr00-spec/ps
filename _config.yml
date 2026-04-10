@@ -14,7 +14,7 @@ url: https://pspringerjr00-spec.github.io
 # on GitHub Pages it is your github repository's name prefixed with a /
 baseurl: /ps
 # location of code, the full url to your github repository
-source-code: https://pspringerjr00-spec.github.io -ps
+source-code: https://pspringerjr00-spec.github.io/ps
 
 ##########
 # SITE SETTINGS
